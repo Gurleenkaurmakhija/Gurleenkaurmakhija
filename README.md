@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Gurleenkaurmakhija/Gurleenkaurmakhija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Gurleenkaurmakhija/Gurleenkaurmakhija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 I'm Gurleen Kaur a pre-final year Computer Science and Engineering student with a deep interest in full-stack development, cloud computing, and solving real-world problems through code. 🚀
 
